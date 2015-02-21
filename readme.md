@@ -1,3 +1,5 @@
+A personal Scriptcraft play area for me :)
+
 # scriptcraft root directory
 
 This directory contains the following subdirectories...
